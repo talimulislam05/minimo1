@@ -1,0 +1,140 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+} */
+
+header{
+    /* border: 1px solid red; */
+}
+
+.container{
+    width: 90%;
+    margin: 0px auto;
+    /* border:1px solid black; */
+    overflow: hidden;
+    
+}
+
+.logo{
+    width:9%;
+    /* border:1px solid blue; */
+    float: left;
+    padding: 13px;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.menu{
+    width:60%;
+    /* border:1px solid green; */
+    float: right;
+    /* padding: 10px; */
+}
+
+.menu ul{
+    list-style: none;
+    /* float: right; */
+    overflow: hidden;
+
+}
+
+/* .menu ul li{} */
+
+/* .menu ul li:nth-child(4){
+    padding-right: 0px;
+} */
+
+.menu ul li a{
+    text-decoration: none;
+    float: left;
+    padding-left: 105.7px;
+    font-size: 14pt;
+    color: #626262;
+    /* padding-left: 40px; */
+    transition: .33s;
+
+}
+
+.menu ul li a:hover{
+    color: black;
+}
+
+/* banner start  */
+
+.b_img{
+    width:100%;
+    /* border:1px solid green; */
+}
+
+.b_img img{
+    width: 100%;
+}
+
+
+/* banner end  */
+
+
+/* about us start  */
+
+.about{}
+
+.container2{
+    width:80%;
+    /* border:1px solid blue; */
+    margin:0px auto;
+}
+
+.first_p{
+    font-size: 14pt;
+   
+}
+
+.about_h1{
+    font-size: 30pt;
+   
+}
+
+.second_p{
+    font-size:14pt;
+    line-height: 25px;
+    
+}
+
+.last_p{
+    margin-top: 50px;
+    padding: 0px 67px;
+
+}
+
+
+/* about us end  */
+
+/* blog section start  */
+
+ .blog{
+    width:424px;
+    height:492px;
+
+ }
+
+ #blog1{
+    
+ }
+
+ #blog2{
+    
+ }
+
+ #blog3{
+    
+ }
+
+ #blog4{
+    
+ }
+
+
+/* blog section end  */
+
